@@ -19217,3 +19217,188 @@ book{east:5103,
 @Article{east:28738,
   author       = {Nakasuka, Miyuki},
   date         = {2019},
+  journaltitle = {Hikaku Ronri Gaku Kenkyū [Annals of the Research Project Center for the Comparative Study of Logic]},
+  title        = {Sai toshite no Apoha [*Apoha as Difference]},
+  pages        = {85--110},
+  volume       = {16},
+}
+
+@Article{east:28739,
+  author       = {Nakasuka, Miyuki},
+  date         = {2019},
+  journaltitle = {Minami Ajia Kotengaku [South Asian Classical Studies]},
+  title        = {Dharmakīrti no Gengo Ron ni okeru niveśa [*Dharmakīrti on niveśa in His Theory of Language]},
+  pages        = {267--292},
+  volume       = {14},
+}
+
+@Article{east:28740,
+  author       = {Nakasuka, Miyuki},
+  date         = {2019},
+  journaltitle = {Tetsugaku},
+  title        = {Chikaku wa Zenmenteki ka: Dignāga to Dharmakīrti [*Does Perception Cognize Its Object Wholly? The Difference between Dignāga and Dharmakīrti]},
+  pages        = {71--86},
+  volume       = {71},
+}
+
+@Article{east:28741,
+  author       = {Nakasuka, Miyuki},
+  date         = {2019},
+  journaltitle = {Indogaku Chibettogaku Kenkyū [Journal of Indian and Tibetan Studies]},
+  title        = {grāhya/adhyavaseya Saikō: Seiritsu no Haikei to Shiteki Tenkai [*Reconsidering the Concepts of grāhya and adhyavaseya]},
+  pages        = {145--208},
+  volume       = {23},
+}
+
+@Article{east:28742,
+  author       = {Nakasuka, Miyuki},
+  date         = {2020},
+  journaltitle = {Indogaku Bukkyōgaku Kenkyū [Journal of Indian and Buddhist Studies]},
+  title        = {Where is the Object of Words? Dharmakīrti, Dharmottara, and Jñānaśrīmitra},
+  number       = {3},
+  pages        = {1237--1242},
+  volume       = {68},
+}
+
+@Article{east:28743,
+  author       = {Nakasuka, Miyuki},
+  date         = {2021},
+  journaltitle = {Minami Ajia Kotengaku [South Asian Classical Studies]},
+  title        = {Hunbetsuchi no Sakugosē to Sono Gen-in o megutte: Dharmakīrti to Dharmottara [*Dharmakīrti and Dharmottara on the Erroneousness of Conceptual Cognitions and Its Causes]},
+  pages        = {365--402},
+  volume       = {16},
+}
+
+@InBook{east:28744,
+  author    = {Arnold, Dan},
+  booktitle = {Buddhist Philosophy: Essential Readings},
+  date      = {2009},
+  title     = {Dharmakīrti and Dharmottara on the Intentionality of Perception: Selections from Nyāyabindu (An Epitome of Philosophy)},
+  editor    = {Edelglass, William and Garfield, Jay},
+  location  = {New York},
+  pages     = {186--196},
+  publisher = {Oxford University Press},
+}
+
+@Article{,
+  author       = {Inami, Masahiro and Ishida, Hisataka and Notake, Miyako and Hayashi, Keijin},
+  journaltitle = {Nanto Bukkyō [*Journal of the Nanto Society for Buddhist Studies]},
+  title        = {Prajñākaragupta no vyavaccheda ron: Pramāṇavārttikālaṅkāra ad PV 4.189–194 wayaku kenkyū [*Prajñākaragupta's Theory of vyavacheda: A Japanese Translation of Pramāṇavārttikālaṅkāra ad PV 4.189–194]},
+  pages        = {1--89},
+  volume       = {85},
+}
+
+@Article{east:28762,
+  author       = {Inami, Masahiro and Ishida, Hisataka and Notake, Miyako and Hayashi, Keijin},
+  journaltitle = {Nanto Bukkyō [*Journal of the Nanto Society for Buddhist Studies]},
+  title        = {Prajñākaragupta no vyavaccheda ron: Pramāṇavārttikālaṅkāra ad PV 4.189–194 wayaku kenkyū [*Prajñākaragupta's Theory of vyavacheda: A Japanese Translation of Pramāṇavārttikālaṅkāra ad PV 4.189–194]},
+  year         = {2005},
+  pages        = {1--89},
+  volume       = {85},
+}
+
+@InBook{east:28763,
+  author    = {Ono, Motoi},
+  booktitle = {Indo No Bunka to Ronri: Tosaki Hiromasa Hakase Koki Kinen Ronbunshū [*Culture and Logic in India: Festschrift in Honor of the 70th Birthday of Dr. Hiromasa Tosaki]},
+  date      = {2000},
+  title     = {Pramāṇviniścaya niokeru Fugu-furyō-in-setsu: Pramāṇaviniścaya dai 3 shō Gijironshōin-setsu, fugufuryōin no kō (v. 83–84) Text Kōtei to Wayaku [*The Theory of the asādhāraṇānaikāntika-hetu in the Pramāṇaviniścaya: A Critical Edition and Annotated Japanese Translation of the Section hetvābhāsa, the Paragraph asādhāraṇānaikāntika-hetu]},
+  editor    = {Akihiko, Akamatsu},
+  location  = {Fukuoka},
+  pages     = {289--317},
+  publisher = {Kyūshū Daigaku Shuppankai},
+}
+
+@Article{east:28764,
+  author       = {Ono, Motoi},
+  journaltitle = {Report on Research Results of Grant-in-Aid for Scientific Research for Fiscal Years 2004-2005.},
+  title        = {Prajñākaraguputa no yuishiki-setsu: Senzai inshō (vāsanā) setsu o megutte [*Prajnakaragupta's Mind Only Theory : On the Latent Impression (vāsanā) Theory]},
+  year         = {2006},
+}
+
+@Article{,
+  author       = {Motoi, Ono},
+  journaltitle = {Report on Research Results of Grant-in-Aid for Scientific Research for Fiscal Years 2004-2005},
+  title        = {Prajñākaraguputa no yuishiki-setsu: Senzai inshō (vāsanā) setsu o megutte [*Prajnakaragupta's Mind Only Theory : On the Latent Impression (vāsanā) Theory]},
+  year         = {2006},
+  pages        = {26--52},
+}
+
+@Book{east:28765,
+  author     = {Pande, G. C.},
+  date       = {1995},
+  title      = {Dharmakīrti Viracita Nyāyabinduḥ: Nyāyabindu},
+  location   = {Saranath, Varanasi},
+  number     = {32},
+  publisher  = {Central Institute of Higher Tibetan Studies},
+  series     = {Bibliotheca Indo-Tibetica Series},
+  translator = {Pande, G. C.},
+}
+
+@Book{28766,
+  author     = {Pande, G. C.},
+  date       = {1995},
+  title      = {Ratnakīrti Viracita Apohasiddhiḥ: Apohasiddhi},
+  location   = {Saranath, Varanasi},
+  number     = {33},
+  publisher  = {Central Institute of Higher Tibetan Studies},
+  series     = {Bibliotheca Indo-Tibetica Series},
+  translator = {Pande, G. C.},
+}
+
+@Article{east:28767,
+  author       = {Lasic, Horst},
+  journaltitle = {Journal of Indian Philosophy},
+  title        = {On the Utilisation of Causality as a Basis of Inference. Dharmakīrti's Statements and Their Interpretation},
+  year         = {2003},
+  number       = {1},
+  pages        = {185--197},
+  volume       = {31},
+}
+
+@Book{east:28765,
+  author     = {Pande, G. C.},
+  date       = {1995},
+  title      = {Dharmakīrti Viracita Nyāyabinduḥ: Nyāyabindu},
+  location   = {Saranath, Varanasi},
+  number     = {32},
+  publisher  = {Central Institute of Higher Tibetan Studies},
+  series     = {Bibliotheca Indo-Tibetica Series},
+  translator = {Pande, G. C.},
+}
+
+@Book{east:28768,
+  author     = {Dorjee, Penpa},
+  date       = {1994},
+  title      = {ācārya vidyākaraśāntiviracitam tarkasopānam Tarkasopānam slob dpon rig pa'i 'byung gnas zhi bas mdzad pa'i rtog ge'e them skas},
+  location   = {Saranath, Varanasi},
+  number     = {28},
+  publisher  = {Central Institute of Higher Tibetan Studies},
+  series     = {Bibliotheca Indo-Tibetica Series},
+  translator = {Dorjee, Penpa},
+}
+
+@Article{,
+}
+
+@Article{east:28769,
+  author       = {Yaita, Hideomi},
+  journaltitle = {Naritasan-Bukkyō-Kenkyūjo-Kiyō [Journal of Naritasan Institute for Buddhist Studies]},
+  title        = {“Shō-Shinjitsu-Ron (Shaku)” ‘Hirui-Kōsatsu’ (upamānavicāra) shō no Kenkyū (Ⅱ) [(A Study of the Upamānavicāra Chapter in the Tattvasaṅgraha (pañjikā) (Ⅱ))]},
+  year         = {2006},
+  pages        = {101--133},
+}
+
+@Article{east:28770,
+  author       = {Shiga, Kiyokuni},
+  journaltitle = {Indo-gaku-Tibet-gaku-Kenkyū [Journal of Indian and Tibetan Studies]},
+  title        = {Tattvasaṃgraha oyobi Tattvasaṃgrahapañjikā Dai 21-shō ‘San-Ji no Kōsatsu (Traikālyaparīkṣā)’ Kōtei text to wayaku (kk. 1809--1855) [A Critical Edition and an Annotated Japanese Translation of the 21st Chapter (Traikālyaparīkṣā) of the Tattvasaṃgraha and Tattvasaṃgrahapañjikā thereon (kk. 1809-1855)]},
+  year         = {2016},
+  number       = {20},
+  pages        = {76--130},
+}
+
+@Article{east:28771,
+  author       = {Inami, Masahiro},
+  journaltitle = {Mikogami Eshō Kyōju Juju-Kinen-Ronshū: Indo-Tetsugaku-Bukkyōshisō-Ronshū [Studies on Indian Philosophy and Buddhist Thoughts Volume in Honor of Professor Esho Mikogami]},
+  title        = {Prajñākaragupta ni okeru Funi-chi [Prajñākaragupta's View on the Nonduality of Cognition]},
+  year         = {200
