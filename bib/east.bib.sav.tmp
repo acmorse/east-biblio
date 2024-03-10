@@ -19377,9 +19377,6 @@ book{east:5103,
   translator = {Dorjee, Penpa},
 }
 
-@Article{,
-}
-
 @Article{east:28769,
   author       = {Yaita, Hideomi},
   journaltitle = {Naritasan-Bukkyō-Kenkyūjo-Kiyō [Journal of Naritasan Institute for Buddhist Studies]},
@@ -19401,4 +19398,5 @@ book{east:5103,
   author       = {Inami, Masahiro},
   journaltitle = {Mikogami Eshō Kyōju Juju-Kinen-Ronshū: Indo-Tetsugaku-Bukkyōshisō-Ronshū [Studies on Indian Philosophy and Buddhist Thoughts Volume in Honor of Professor Esho Mikogami]},
   title        = {Prajñākaragupta ni okeru Funi-chi [Prajñākaragupta's View on the Nonduality of Cognition]},
-  year         = {200
+  year         = {2004},
+  pages   
