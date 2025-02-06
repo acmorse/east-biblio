@@ -16068,21 +16068,16 @@ book{east:5103,
   pages =        {361--358},
 }
 
-@article{east:6031,
-  title =        {カマラシーラのディグナーガ批判: 唯識性の理解を巡って
-                  [*{Kamalaśīla}'s criticism of {Dignāga}: on the
-                  understanding of the {Yogācāra} system]},
-  volume =       3,
-  language =     {ja-JP},
-  journaltitle =      {インド哲学仏教学研究 [Indo tetsugaku Bukkyōgaku
-                  kenkyū] [*Studies of Indian philosophy and
-                  Buddhism]},
-  author =       {Nishizawa, Fumihito},
-  editor =       {{東京大学大学院人文社会系研究科.文学部インド哲学仏教
-                  学研究室: Tōkyō Daigaku. Jinbun Shakaikei
-                  Kenkyūka. Indo Tetsugaku Bukkyōgaku Kenkyūshitsu}},
-  date =         1995,
-  pages =        {17--32},
+@Article{east:6031,
+  author   = {Nishizawa, Fumihito},
+  title    = {{Kamalaśīla} no {Dignāga} Hihan: Yuishiki-sei no Rikai o megutte [{Kamalaśīla}'s Criticism on {Dignāga}'s Understanding of {Vijñaptimātratā}]},
+  year     = {1995},
+  editor   = {Tōkyō Daigaku Daigakuin. Jinbun Shakaikei Kenkyūka. Bungakubu Indo Tetsugaku Bukkyōgaku Kenkyūshitsu},
+  language = {ja-JP},
+  pages    = {17--32},
+  url      = {https://repository.dl.itc.u-tokyo.ac.jp/records/37069},
+  volume   = {3},
+  journal  = {Indo Tetsugaku Bukkyōgaku Kenkyū [Studies of Indian Philosophy and Buddhism]},
 }
 
 @Article{east:6032,
@@ -19991,4 +19986,184 @@ book{east:5103,
   title     = {Śākyabuddhi and Dharmottara on the Inference of Momentariness Based on the Absence of External Causes of Destruction},
   editor    = {Krasser, Helmut and Lasic, Horst and Franco, Eli and Kellner, Birgit},
   location  = {Wien},
-  pages     = {407--421
+  pages     = {407--421},
+  publisher = {Verlag der Österreichischen Akademie der Wissenschaften},
+}
+
+@InCollection{east:29133,
+  author    = {Shiga, Kiyokuni},
+  booktitle = {Religion and Logic in Buddhist Philosophical Analysis: Proceedings of the Fourth International Dharmakīrti Conference, Vienna, August 23-27, 2005},
+  date      = {2011},
+  title     = {antarvyāpti and bahirvyāpti Re-Examined},
+  editor    = {Krasser, Helmut and Lasic, Horst and Franco, Eli and Kellner, Birgit},
+  location  = {Wien},
+  pages     = {423--435},
+  publisher = {Verlag der Österreichischen Akademie der Wissenschaften},
+}
+
+@InCollection{east:29134,
+  author    = {Taber, John},
+  booktitle = {Religion and Logic in Buddhist Philosophical Analysis: Proceedings of the Fourth International Dharmakīrti Conference, Vienna, August 23-27, 2005},
+  date      = {2011},
+  title     = {Did Dharmakīrti think the Buddha had desires?},
+  editor    = {Krasser, Helmut and Lasic, Horst and Franco, Eli and Kellner, Birgit},
+  location  = {Wien},
+  pages     = {437--448},
+  publisher = {Verlag der Österreichischen Akademie der Wissenschaften},
+}
+
+@InCollection{east:29135,
+  author    = {Tillemans, Tom},
+  booktitle = {Religion and Logic in Buddhist Philosophical Analysis: Proceedings of the Fourth International Dharmakīrti Conference, Vienna, August 23-27, 2005},
+  date      = {2011},
+  title     = {Dignāga, Bhāviveka and Dharmakīrti on apoha},
+  editor    = {Krasser, Helmut and Lasic, Horst and Franco, Eli and Kellner, Birgit},
+  location  = {Wien},
+  pages     = {449--458},
+  publisher = {Verlag der Österreichischen Akademie der Wissenschaften},
+}
+
+@InCollection{east:29136,
+  author    = {Watanabe, Toshikazu},
+  booktitle = {Religion and Logic in Buddhist Philosophical Analysis: Proceedings of the Fourth International Dharmakīrti Conference, Vienna, August 23-27, 2005},
+  date      = {2011},
+  title     = {Dharmakīrti's Intention to Quote Pramāṇasamuccaya III 12},
+  editor    = {Krasser, Helmut and Lasic, Horst and Franco, Eli and Kellner, Birgit},
+  location  = {Wien},
+  pages     = {459--467},
+  publisher = {Verlag der Österreichischen Akademie der Wissenschaften},
+}
+
+@InCollection{east:29137,
+  author    = {Woo, Jeson},
+  booktitle = {Religion and Logic in Buddhist Philosophical Analysis: Proceedings of the Fourth International Dharmakīrti Conference, Vienna, August 23-27, 2005},
+  date      = {2011},
+  title     = {Vācaspatimiśra and Jñānaśrīmitra on the Object of yogipratyakṣa},
+  editor    = {Krasser, Helmut and Lasic, Horst and Franco, Eli and Kellner, Birgit},
+  location  = {Wien},
+  pages     = {469--476},
+  publisher = {Verlag der Österreichischen Akademie der Wissenschaften},
+}
+
+@InCollection{east:29138,
+  author    = {Yao, Zhihua},
+  booktitle = {Religion and Logic in Buddhist Philosophical Analysis: Proceedings of the Fourth International Dharmakīrti Conference, Vienna, August 23-27, 2005},
+  date      = {2011},
+  title     = {Non-Cognition and the Third pramāṇa},
+  editor    = {Krasser, Helmut and Lasic, Horst and Franco, Eli and Kellner, Birgit},
+  location  = {Wien},
+  pages     = {477--490},
+  publisher = {Verlag der Österreichischen Akademie der Wissenschaften},
+}
+
+@InCollection{east:29139,
+  author    = {Yoshimizu, Chizuko},
+  booktitle = {Religion and Logic in Buddhist Philosophical Analysis: Proceedings of the Fourth International Dharmakīrti Conference, Vienna, August 23-27, 2005},
+  date      = {2011},
+  title     = {What makes all the produced impermanent? Proof of Impermanence and Theory of Causality},
+  editor    = {Krasser, Helmut and Lasic, Horst and Franco, Eli and Kellner, Birgit},
+  location  = {Wien},
+  pages     = {491--506},
+  publisher = {Verlag der Österreichischen Akademie der Wissenschaften},
+}
+
+@InCollection{east:29140,
+  author    = {Yoshimizu, Kiyotaka},
+  booktitle = {Religion and Logic in Buddhist Philosophical Analysis: Proceedings of the Fourth International Dharmakīrti Conference, Vienna, August 23-27, 2005},
+  date      = {2011},
+  title     = {Reconsidering the Fragment of the Bṛhaṭṭīkā on Restriction (niyama)},
+  editor    = {Krasser, Helmut and Lasic, Horst and Franco, Eli and Kellner, Birgit},
+  location  = {Wien},
+  pages     = {507--521},
+  publisher = {Verlag der Österreichischen Akademie der Wissenschaften},
+}
+
+@InBook{east:29143,
+  author    = {Steinkellner, Ernst},
+  booktitle = {Jinendrabuddhi's {Viśālamalāvatī} {Pramāṇasamuccayaṭīkā}: {Chapter} {I}. {Part} {I}: {Critical} {Edition}.},
+  date      = {2005},
+  title     = {Introduction},
+  editor    = {Steinkellner, Ernst and Krasser, Helmut and Lasic, Horst},
+  location  = {Beijing, Vienna},
+  pages     = {xxv--xlviii},
+  publisher = {China Tibetology Publishing House and Austrian Academy of Sciences Press},
+}
+
+@Article{east:29054,
+  author   = {Nishizawa, Fumihito},
+  title    = {Phya pa chos kyi seng ge no Ninshiki Shudan Ron: Ninshiki Shudan no Teigi o megutte [Phya pa chos kyi seng ge's Theory of {Pramāṇa}; With Reference to His Interpretation of the Definition of \textit{Pramāṇa}]},
+  year     = {2010},
+  pages    = {61--75},
+  url      = {https://ndlsearch.ndl.go.jp/books/R100000039-I10810752},
+  volume   = {56},
+  journal  = {Nihon Seizō Gakkai Kaihō [Report of the Japanese Association for Tibetan Studies]},
+  keywords = {Phyapa Website},
+}
+
+@Article{east:29008,
+  author   = {Nishizawa, Fumihito},
+  title    = {Phya pa chos kyi seng ge no rNgog Hon'yakukan Hihan: Ninshiki Shudan Sei no Kakutei o megutte [Phya pa chos kyi seng ge's Criticism of rNgog Blo ldan shes rab: On the Ascertainment of \textit{Prāmāṇya}]},
+  year     = {2011},
+  issn     = {0019-4344},
+  pages    = {76--79},
+  url      = {https://www.jstage.jst.go.jp/article/ibk/59/2/59_KJ00007183089/_article/-char/ja/},
+  volume   = {59.2},
+  journal  = {Indogaku Bukkyōgaku Kenkyū [Journal of Indian and Buddhist Studies]},
+  keywords = {Phyapa Website},
+}
+
+@PhdThesis{east:28996,
+  author   = {Nishizawa, Fumihito},
+  title    = {Chibetto Bukkyō Ronrigaku no Keisei to Tenkai: Ninshiki Shudan Ron no Rekishiteki Hensen o Chūshin toshite [The Formation and Development of Tibetan Buddhist Logic: With Reference to the Historical Transition of {Pramāṇa} Theory]},
+  address  = {Tokyo},
+  keywords = {Phyapa Website},
+  school   = {University of Tokyo},
+  year     = {2011},
+}
+
+@Article{east:29098,
+  author  = {Nishizawa, Fumihito},
+  title   = {Hi Ninshiki Shudan no Chi no Kigen ni kansuru Ichi Kōsatsu [On the Origin of Non-valid Cognitions (tshad min gyi blo)]},
+  year    = {2012},
+  editor  = {Tōkyō Daigaku Daigakuin. Jinbun Shakaikei Kenkyūka. Bungakubu Indo Tetsugaku Bukkyōgaku Kenkyūshitsu},
+  pages   = {105--118},
+  url     = {https://repository.dl.itc.u-tokyo.ac.jp/records/36992},
+  volume  = {19},
+  journal = {Indo Tetsugaku Bukkyōgaku Kenkyū [Studies of Indian Philosophy and Buddhism]},
+}
+
+@Article{east:29003,
+  author   = {Nishizawa, Fumihito},
+  title    = {gSang phu kyōgaku no Rekishiteki Tenkai ni kansuru Ichi Kōsatsu [A Brief Survey on the Historical Development of the gSang phu Scholasticism]},
+  year     = {2012},
+  pages    = {1--14},
+  url      = {https://ndlonline.ndl.go.jp/#!/detail/R300000002-I024018377-00},
+  volume   = {58},
+  journal  = {Nihon Seizō Gakkai Kaihō [Report of the Japanese Association for Tibetan Studies]},
+  keywords = {Phyapa Website},
+}
+
+@Article{east:29002,
+  author   = {Nishizawa, Fumihito},
+  title    = {Chibetto Bukkyō Ronrigaku ni okeru <Rikai (\textit{rtogs pa})> no Gainen ni tsuite [On the Concept of "Understanding" (\textit{rtogs pa}) in Tibetan Buddhist Logic]},
+  year     = {2012},
+  issn     = {1884-7382},
+  pages    = {97--122},
+  volume   = {4},
+  journal  = {Indo Ronrigaku Kenkyū [Indian Logic]},
+  keywords = {Phyapa Website},
+}
+
+@Article{east:29001,
+  author   = {Nishizawa, Fumihito},
+  title    = {"Ronrigaku Iyami Busshoku" ni okeru Phya pa no Shisōteki Tachiba [The Philosophical Standpoint of Phya pa chos kyi seng ge in his \textit{Tshad ma yid kyi mun sel}]},
+  year     = {2012},
+  issn     = {0019-4344},
+  pages    = {1062--1059},
+  url      = {https://www.jstage.jst.go.jp/article/ibk/60/2/60_KJ00007978300/_pdf/-char/ja},
+  volume   = {60.2},
+  journal  = {Indogaku Bukkyōgaku Kenkyū [Journal of Indian and Buddhist Studies]},
+  keywords = {Phyapa Website},
+}
+
+@InCollection{east:29
